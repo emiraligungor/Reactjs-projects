@@ -1,2 +1,2 @@
 # Reactjs-projects
-simple projects built with reactjs on my learning journey
+simple projects built with Reactjs on my learning journey
