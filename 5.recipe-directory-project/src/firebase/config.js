@@ -2,12 +2,12 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBvEHofWnjGCQnXSLSCyBKZUSuApYJSln4",
-  authDomain: "cooking-student-site.firebaseapp.com",
-  projectId: "cooking-student-site",
+  apiKey: "API KEY",
+  authDomain: "authDomain",
+  projectId: "projectId",
   storageBucket: "cooking-student-site.appspot.com",
-  messagingSenderId: "342806905871",
-  appId: "1:342806905871:web:728174ee16262165ca4f7a",
+  messagingSenderId: "SenderId",
+  appId: "appId",
 };
 
 //init firebase
